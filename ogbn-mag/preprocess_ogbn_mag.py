@@ -1,6 +1,6 @@
 from pyHGT.data import *
 from pyHGT.utils import *
-from ogb.nodeproppred import PygNodePropPredDataset
+from ogb.nodeproppred import PygNodePropPredDataset, Evaluator
 
 import argparse
 
